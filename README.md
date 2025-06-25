@@ -1,2 +1,2 @@
-# AI-Tool-for-Lease-Abstraction-All-Process
+# SmartAI-Tool-for-Automatic-Lease-Abstraction-Multi-Purpose
 RECAM SOLUTIONS - Internship Project
