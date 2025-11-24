@@ -2,6 +2,7 @@
 RECAM SOLUTIONS - Internship Project
 
 🛠 Tools: Python, Flask, LLaMA 3.3, LangChain, Sentence Transformers, spaCy, HTML/CSS/JS
+
 🏢 Role: Web Developer Intern @RECAM Solutions
 
 1. Built a multi-tab Flask web app using LLaMA 3.3 for intelligent lease clause abstraction.
